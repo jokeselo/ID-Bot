@@ -1,1 +1,1 @@
-worker: python3 motech.py
+gunicorn: python3 motech.py
