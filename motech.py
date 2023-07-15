@@ -8,7 +8,7 @@ Motechyt = Client(
             "MT ID BOT",
             bot_token = "1911112163:AAHhv_dsZGZQetgdxlD5PGHV90rXN8w_OyM",
             api_id = 28123504,
-            api_hash = o"266272106c7fb627c1753f776e15e498"
+            api_hash = "266272106c7fb627c1753f776e15e498"
 )
 
 # start and Update channel added
