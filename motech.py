@@ -6,9 +6,9 @@ from files import UPDATE_CHANNEL
 
 Motechyt = Client(
             "MT ID BOT",
-            bot_token = os.environ["BOT_TOKEN"],
-            api_id = int(os.environ["API_ID"]),
-            api_hash = os.environ["API_HASH"]
+            bot_token = "1911112163:AAHhv_dsZGZQetgdxlD5PGHV90rXN8w_OyM",
+            api_id = 28123504,
+            api_hash = o"266272106c7fb627c1753f776e15e498"
 )
 
 # start and Update channel added
